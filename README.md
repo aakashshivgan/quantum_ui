@@ -2,8 +2,8 @@
 #packages
 
 cloud_firestore: ^4.4.5
-
   cupertino_icons: ^1.0.2
+  
   firebase_auth: ^4.3.0
   firebase_core: ^2.8.0
   flutter:
