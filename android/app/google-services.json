@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509506939791",
+    "project_id": "quantum-inno",
+    "storage_bucket": "quantum-inno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509506939791:android:c69d9712d2309b21a879fa",
+        "android_client_info": {
+          "package_name": "com.example.quantum_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509506939791-bv20jr03e21n1u1co7ago6m7v01ueh4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantum_ui",
+            "certificate_hash": "36999bfa042b5a3191d61be4764b6ee440b52d30"
+          }
+        },
+        {
+          "client_id": "509506939791-itpm0j4p5t6msaarkvf12s2pnf7i26bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mBQpmMhgfMJC7DtKxpGH1LNWUsyB7hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509506939791-4mba8u4tb1aimd6hs89qrjvb4i41jpco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
